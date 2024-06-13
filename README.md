@@ -1,1 +1,3 @@
 # HamiltonianMC
+
+Mini-Project Bayesian
