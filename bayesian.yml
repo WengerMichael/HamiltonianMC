@@ -165,4 +165,6 @@ dependencies:
   - zipp=3.19.2=pyhd8ed1ab_0
   - zlib=1.2.13=h18a0788_1
   - zstd=1.5.5=hd90d995_2
+  - pip:
+      - emcee==3.1.6
 prefix: /opt/anaconda3/envs/bayesian
