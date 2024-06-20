@@ -20,7 +20,7 @@ Note that in order to reproduce our result the data must not be generated again 
   - `HamiltonianMonteCarlo.ipynb`
     - Contains the implementation of the Hamiltonian-Monte-Carlo algorithm and also a sctipt which generates the sample for all three target distributions described above. Three sets of samples are generated with sample size 10'000, 50'000 and 100'000.
   - `MetropolisHasting.ipynb`
-    - Exactly the same as HamiltonianMonteCarlo.ipynb for the Metropolis-Hastings algorithm.
+    - Exactly the same as `HamiltonianMonteCarlo.ipynb` for the Metropolis-Hastings algorithm.
 
 - **Analysis of the data**:
   The analysis can be found in:
