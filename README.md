@@ -27,6 +27,6 @@ Note that in order to reproduce our result the data must not be generated again 
   - `analysis_2D_gaussian.ipynb`
   - `analysis_15D_gaussian.ipynb`
   - `analysis_RB_gaussian.ipynb`
-    - All these scripts load in the generated data and print out the acceptance rate for each set of sample. They also calculate the auto-correlation time and some of them are also used for making some plots in order to visualize the data.
+    - All these scripts load in the generated data and print out the acceptance rate for each set of sample. They also calculate the autocorrelation time and some of them are also used for making some plots in order to visualize the data.
   - `Rosenbrocktails.ipynb`
     - Contains the calculation for the ratio of numbers of samples present in the tails of the Rosenbrock distribution compared to the total number of samples.
